@@ -11,8 +11,8 @@ namespace TaxApp.Controllers
     {
         TaxPayer[] taxpayers = new TaxPayer[]  
         {  
-            new TaxPayer { Id = 1, Name = "Bill"},  
-            new TaxPayer { Id = 2, Name = "Joe"},  
+            new TaxPayer { Id = 1, Name = "Samuel Jackson"},  
+            new TaxPayer { Id = 2, Name = "Joe Namath   "},  
             new TaxPayer { Id = 3, Name = "MC Hammer" }  
         };
 
